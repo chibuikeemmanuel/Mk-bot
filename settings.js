@@ -6,11 +6,11 @@
 const chalk = require("chalk")
 const fs = require("fs")
 //auto presence update
-global.autoTyping = false //auto typing in group chat (true to enable, false to disable)
-global.autoRecord = false //auto recording (true to enable, false to disable)
+global.autoTyping = true //auto typing in group chat (true to enable, false to disable)
+global.autoRecord = true //auto recording (true to enable, false to disable)
 global.autoblockmorroco = true //auto block 212 (true to enable, false to disable)
 global.autokickmorroco = true //auto kick 212 (true to enable, false to disable) 
-global.antispam = false //auto kick spammer (true to enable, false to disable)
+global.antispam = true //auto kick spammer (true to enable, false to disable)
 //////////////////////////////////////////////////////////////////////////////////
 
 //LIMIT//
@@ -31,8 +31,7 @@ global.textwlcm = `
 ┌─┉─ • ─┉─  ── .✦
 │Welcome new member, introduction please!
 │Name:
-│Ask:
-│Age:
+|X Profile link:
 │Make sure to introduce yourself properly ૮₍꜆꜄ ˃ ³ ˂ ₎ა
 └─┉─¡! • !¡─┉─ ── .✦
 `
@@ -49,36 +48,36 @@ global.ig = '@techlord01' //YOUR INSTAGRAM NAME
 global.yt = 'malvintech2' //YOUR YOUTUBE NAME, IF NONE THEN LEAVE BLANK
 global.ttowner = 'malvinquotes' //YOUR TIKTOK NAME
 global.ownername = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ' //YOUR NAME
-global.owner = ['263780166288'] // ALSO SET THIS IN DATABASE FOLDER 
-global.ownernomer = '263780166288' //YOUR NUMBER
+global.owner = ['2349036164643'] // ALSO SET THIS IN DATABASE FOLDER 
+global.ownernomer = '2349036164643' //YOUR NUMBER
 global.socialm = 'GitHub: -'
-global.location = 'Indonesia' 
-global.nameCreator = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
+global.location = 'Nigeria' 
+global.nameCreator = 'ᴅᴇᴠ : ZEROXMETRO'
 /////////////////////////////////////////////////////////////////////////////////
 
 
 //==================BOT SETTINGS===========================\\
-global.botname = "MK | BOT" //YOUR BOT NAME
-global.ownernumber = '263780166288' //YOUR NUMBER
-global.botnumber = '263780166288' //YOUR NUMBER
-global.ownername = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ' //YOUR NAME
+global.botname = "ZEROXMETRO| BOT" //YOUR BOT NAME
+global.ownernumber = '2349036164643' //YOUR NUMBER
+global.botnumber = '2349036164643' //YOUR NUMBER
+global.ownername = 'ᴅᴇᴠ : ZEROXMETRO' //YOUR NAME
 global.idSaluran = "120363398430045533@newsletter" //YOUR CHANNEL ID
 global.idch = "120363398430045533@newsletter" //YOUR CHANNEL ID
 global.chat = '120363398430045533@newsletter'
-global.namaSaluran = "MK | MD"
+global.namaSaluran = "ZEROXMETRO | MD"
 global.linkSaluran = "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A"
-global.ownerNumber = ["263780166288@s.whatsapp.net"] //YOUR NUMBER
+global.ownerNumber = ["2349036164643@s.whatsapp.net"] //YOUR NUMBER
 global.ownerweb = "" //YOUR WEB//OPTIONAL
 global.websitex = "" //OPTIONAL
 global.wagc = "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A"
 global.wach = 'https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A'
 global.saluran = "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A"
 global.themeemoji = '🪀'
-global.wm = "Malvin King Tha Best"
+global.wm = "ZEROXMETRO IS ALIVE"
 global.botscript = 'ʙᴏᴛ sᴄʀɪᴘᴛ ɪɴ\nlink : https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A'
 global.packname = "Made With ❤️ By"
-global.author = "\n\nLordMk\n Dev : Malvin"
-global.creator = "263780166288@s.whatsapp.net"
+global.author = "ZEROXMETRO"
+global.creator = "2349036164643@s.whatsapp.net"
 
 
 ////////////////////////////////////////////////////////
